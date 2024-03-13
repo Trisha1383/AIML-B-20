@@ -3,6 +3,8 @@
 
 2.[part1.assign1](https://github.com/Trisha1383/AIML-B-20/blob/main/Part_01_Assgn_1.ipynb)
 
+2.1[part02.assign1](https://github.com/Trisha1383/AIML-B-20/blob/main/Part02_Assgn1.ipynb)
+
 3.[Assign_02](https://github.com/Trisha1383/AIML-B-20/blob/main/Assign_02.ipynb)
 
 4.[Assign_03](https://github.com/Trisha1383/AIML-B-20/blob/main/Assign_03.ipynb)
