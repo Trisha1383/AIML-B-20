@@ -5,4 +5,5 @@
 
 3.[Assign_02](https://github.com/Trisha1383/AIML-B-20/blob/main/Assign_02.ipynb)
 
+4.[Assign_03](https://github.com/Trisha1383/AIML-B-20/blob/main/Assign_03.ipynb)
 
